@@ -43,6 +43,4 @@ This project examines batting & bowling performances, turning points, and phase-
 ### Average Wickets per Phase
 ![Wickets by Phase](images/wickets_by_phase.png)
 
-### Match Turning Point Highlight
-![Turning Point Example](images/turning_point_example.png)
 
