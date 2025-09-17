@@ -33,11 +33,16 @@ This project examines batting & bowling performances, turning points, and phase-
 ---
 
 ## 📊 Sample Visualizations
-(Add your plots as images here after you have run your notebook. Examples:)  
 
-- Economy rate by phase  
-- Average wickets by phase  
-- Dot ball % across all innings.  
-- Commentary-style turning points  
 
----
+## 📊 Sample Visualizations
+
+### Economy Rate by Phase
+![Economy Rate by Phase](images/economy_by_phase.png)
+
+### Average Wickets per Phase
+![Wickets by Phase](images/wickets_by_phase.png)
+
+### Match Turning Point Highlight
+![Turning Point Example](images/turning_point_example.png)
+
