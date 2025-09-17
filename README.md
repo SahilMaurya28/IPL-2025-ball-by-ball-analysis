@@ -32,15 +32,4 @@ This project examines batting & bowling performances, turning points, and phase-
 
 ---
 
-## 📊 Sample Visualizations
-
-
-## 📊 Sample Visualizations
-
-### Economy Rate by Phase
-![Economy Rate by Phase](images/economy_by_phase.png)
-
-### Average Wickets per Phase
-![Wickets by Phase](images/wickets_by_phase.png)
-
 
